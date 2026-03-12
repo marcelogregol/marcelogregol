@@ -1,76 +1,94 @@
-# Hi 👋, I'm Marcelo Gregol
+# Hi 👋 I'm Marcelo Gregol
 
-🚀 **Full Stack Developer | JavaScript Specialist**  
-IE Ireland
+💻 Full-Stack Developer (JavaScript / TypeScript)  
+📍 Based in Dublin, Ireland  
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m a developer focused on building modern web applications using JavaScript and TypeScript.  
+I enjoy creating clean, scalable solutions and improving performance, architecture, and developer experience.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/marcelogregol">
-    <img src="https://img.shields.io/badge/GitHub-MARCELOGREGOL-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcelogregol">
-    <img src="https://img.shields.io/badge/www.linkedin.com-@MARCELOGREGOL-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Currently focused on React, modern frontend architecture, and full-stack applications.
 
 ---
 
-## 🧠 What I do
+# 🌐 Connect with me
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+- Portfolio: http://marcelogregol.com  
+- LinkedIn: https://linkedin.com/in/marcelogregol  
+- GitHub: https://github.com/marcelogregol  
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
+
+### Project 1 — SaaS Dashboard
+Modern dashboard with authentication, analytics and subscription features.
+
+Tech: React, TypeScript, Node.js  
+
+🔗 Demo: http://marcelogregol.com/projeto1  
+🔗 Repository: https://github.com/marcelogregol/project1
+
+---
+
+### Project 2 — E-commerce Platform
+Full-stack application with product catalog, cart and checkout flow.
+
+Tech: React, Node.js, REST API  
+
+🔗 Demo: http://marcelogregol.com/projeto2  
+🔗 Repository: https://github.com/marcelogregol/project2
+
+---
+
+### Project 3 — Productivity App
+Task and project management application with real-time updates.
+
+Tech: React, TypeScript, API integration  
+
+🔗 Demo: http://marcelogregol.com/projeto3  
+🔗 Repository: https://github.com/marcelogregol/project3
+
+---
+
+# 🧠 What I work with
+
+- Building modern frontend applications with React
+- Developing full-stack JavaScript systems
+- Designing clean and maintainable architectures
+- Creating REST APIs and integrations
+- Performance optimization and scalable UI
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+React  
+TypeScript  
+JavaScript  
+Next.js  
+HTML  
+CSS  
 
 ### Backend
+Node.js  
+Express  
+REST APIs  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+### Tools
+Git  
+Docker  
+Linux  
+CI/CD  
 
 ---
 
-## 🚀 Philosophy
+# 🚀 Development Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> Good software is not only about working code —  
+> it's about maintainability, performance, and long-term value.
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ If you find my projects useful, feel free to star a repository.  
+🤝 I'm always open to collaboration and interesting projects.
