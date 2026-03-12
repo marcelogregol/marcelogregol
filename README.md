@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marcelo Gregol
 
-🚀 **Full Stack Developer | JavaScript0 Specialist**  
+🚀 **Full Stack Developer | JavaScript Specialist**  
 IE Ireland
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
