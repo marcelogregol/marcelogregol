@@ -12,7 +12,7 @@ Currently focused on React, modern frontend architecture, and full-stack applica
 
 # 🌐 Connect with me
 
-- Portfolio: http://marcelogregol.com  
+- Portfolio: https://mgregol.tech 
 - LinkedIn: https://linkedin.com/in/marcelogregol  
 - GitHub: https://github.com/marcelogregol  
 
@@ -20,33 +20,36 @@ Currently focused on React, modern frontend architecture, and full-stack applica
 
 # 🚀 Featured Projects
 
-### Project 1 — SaaS Dashboard
-Modern dashboard with authentication, analytics and subscription features.
+### Full-Stack Portfolio & Admin Dashboard
+A complete application to showcase projects and manage content in real time
 
-Tech: React, TypeScript, Node.js  
+Tech: Next.js, TypeScript, Node.js, Docker, Tailwind CSS, SEO  
 
-🔗 Demo: http://marcelogregol.com/projeto1  
-🔗 Repository: https://github.com/marcelogregol/project1
-
----
-
-### Project 2 — E-commerce Platform
-Full-stack application with product catalog, cart and checkout flow.
-
-Tech: React, Node.js, REST API  
-
-🔗 Demo: http://marcelogregol.com/projeto2  
-🔗 Repository: https://github.com/marcelogregol/project2
+🔗 Demo: https://demo.mgregol.tech/admin
+password: admin123
+🔗 Repository: https://github.com/marcelogregol/next-portfolio
 
 ---
 
-### Project 3 — Productivity App
-Task and project management application with real-time updates.
+### TaskHome
+Organize and assign household tasks among residents in a simple and efficient way
 
-Tech: React, TypeScript, API integration  
+Tech: React, Node.js, REST API, MySQL, Express, Git, Prisma, CSS3, Docker, APIs REST  
 
-🔗 Demo: http://marcelogregol.com/projeto3  
-🔗 Repository: https://github.com/marcelogregol/project3
+🔗 Demo: https://taskhome.mgregol.tech/
+🔗 Repository frontend: https://github.com/marcelogregol/frontend-task-home
+🔗 Repository backend: https://github.com/marcelogregol/backend-task-home
+
+---
+
+### GetaPet
+Platform for responsible pet adoption
+
+Tech: React, Node.js, REST API, MongoDB, Express, Git, Mongoose, CSS3, Docker, APIs REST  
+
+🔗 Demo: https://getapet.mgregol.tech/  
+🔗 Repository frontend: https://github.com/marcelogregol/frontend-get-a-pet
+🔗 Repository backend: https://github.com/marcelogregol/backend-get-a-pet
 
 ---
 
