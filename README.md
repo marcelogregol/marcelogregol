@@ -25,9 +25,9 @@ A complete application to showcase projects and manage content in real time
 
 Tech: Next.js, TypeScript, Node.js, Docker, Tailwind CSS, SEO  
 
-🔗 Demo: https://demo.mgregol.tech/admin
-password: admin123
-🔗 Repository: https://github.com/marcelogregol/next-portfolio
+🔗 Demo: https://demo.mgregol.tech/admin 
+password: admin123 
+🔗 Repository: https://github.com/marcelogregol/next-portfolio 
 
 ---
 
@@ -36,9 +36,9 @@ Organize and assign household tasks among residents in a simple and efficient wa
 
 Tech: React, Node.js, REST API, MySQL, Express, Git, Prisma, CSS3, Docker, APIs REST  
 
-🔗 Demo: https://taskhome.mgregol.tech/
-🔗 Repository frontend: https://github.com/marcelogregol/frontend-task-home
-🔗 Repository backend: https://github.com/marcelogregol/backend-task-home
+🔗 Demo: https://taskhome.mgregol.tech/ 
+🔗 Repository frontend: https://github.com/marcelogregol/frontend-task-home 
+🔗 Repository backend: https://github.com/marcelogregol/backend-task-home 
 
 ---
 
