@@ -47,8 +47,8 @@ Platform for responsible pet adoption
 
 Tech: React, Node.js, REST API, MongoDB, Express, Git, Mongoose, CSS3, Docker, APIs REST  
 
-🔗 Demo: https://getapet.mgregol.tech/  
-🔗 Repository frontend: https://github.com/marcelogregol/frontend-get-a-pet
+🔗 Demo: https://getapet.mgregol.tech/ <br>  
+🔗 Repository frontend: https://github.com/marcelogregol/frontend-get-a-pet <br>
 🔗 Repository backend: https://github.com/marcelogregol/backend-get-a-pet
 
 ---
